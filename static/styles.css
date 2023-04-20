@@ -1,0 +1,28 @@
+/* Set background color */
+body {
+    background-color: #f8f8f8;
+}
+
+/* Center heading */
+h1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* Add space between panels */
+.panel {
+    margin-bottom: 50px;
+}
+
+/* Center panel titles */
+.panel-title {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* Set chart div size */
+#AAPL_chart_div,
+#MSFT_chart_div,
+#TSLA_chart_div {width: 100%;
+    height: 400px;
+    }
